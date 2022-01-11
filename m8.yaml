@@ -1,0 +1,4 @@
+root: "proxym8.ruud.ninja"
+repos:
+  - repo: "https://github.com/tomasruud/proxym8"
+    path: "/proxym8"
